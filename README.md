@@ -25,8 +25,8 @@ A Python-based intelligent keylogger that:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/keylogger_uv_project.git
-cd keylogger_uv_project
+git clone https://github.com/Yuvarajklr/keyvi.git
+cd keyvi
 
 2. Run the setup script
 
@@ -55,7 +55,7 @@ keyvi --decrypt    # Decrypt and view encrypted logs
 
 📁 Project Structure
 
-keylogger_uv_project/
+keyvi/
 ├── keylogger_uv/             # Main Python package
 │   ├── __init__.py
 │   └── clic.py                # CLI logic
