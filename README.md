@@ -66,5 +66,5 @@ keyvi/
 
 📜 License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License.[https://github.com/Yuvarajklr/keyvi/blob/main/LICENSE]
 You're free to use, modify, and share it — with proper credit.
