@@ -49,9 +49,18 @@ source venv/bin/activate
 
 ➤ Run commands
 
-keyvi --start      # Start keylogging (press ESC to stop)
-keyvi --analyze    # Analyze recorded behavior logs
-keyvi --decrypt    # Decrypt and view encrypted logs
+* keyvi --start      # Start keylogging (press ESC to stop)
+* keyvi --analyze    # Analyze recorded behavior logs
+* keyvi --decrypt    # Decrypt and view encrypted logs
+* Press ESC to stop logging.
+
+📦 Key Files Explained:
+
+  - behavior_log.txt: Human-readable log
+
+  - behavior_encrypted_log.bin: Encrypted log
+
+  - behavior_key.key: Generated key used by Fernet encryption
 
 📁 Project Structure
 
