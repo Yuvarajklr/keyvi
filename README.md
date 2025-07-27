@@ -1,4 +1,4 @@
-# 🔐 Smart Behavior-Based Keylogge (CLI Tool)
+# 🔐 Smart Behavior-Based Keylogger (CLI Tool)
 
 A Python-based intelligent keylogger that:
 - Detects user typing behavior (Password, URL, Command, General)
